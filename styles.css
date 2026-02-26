@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -12,14 +11,6 @@ header {
   align-items: center;
   padding: 20px;
   background: white;
-}
-
-.logo {
-  width: 60px;
-  height: 60px;
-  background: #26240a;
-  border-radius: 50%;
-  margin-right: 15px;
 }
 
 
@@ -121,13 +112,6 @@ nav a:hover {
   padding: 15px;
   box-shadow: 0 3px 8px rgba(0,0,0,0.1);
   transition: transform 0.2s ease;
-}
-
-.tbr-card img {
-  width: 100%;
-  height: 260px;
-  object-fit: cover;
-  border-radius: 4px;
 }
 
 .book-title {
